@@ -21,7 +21,7 @@ const Hero = () => {
           <Button href="/pricing" white>
             KONTAKTIERE UNS HIER
           </Button>
-          <h1 className="text-6xl font-bold text-purple-600 mb-8 mt-8">
+          <h1 className="text-4xl font-bold text-purple-600 mb-8 mt-8">
             CHASE THE DREAM, <br /> CHANGE YOUR {` `}
             <span className="inline-block relative">
                GAME{" "}
@@ -36,7 +36,7 @@ const Hero = () => {
           </h1>
           <img
           src={triangle}
-          className="mx-auto mt-8 max-w-md"
+          className="mx-auto mt-8 max-w-xs"
           alt="Animated Triangles"
           />
           <BackgroundCircles />

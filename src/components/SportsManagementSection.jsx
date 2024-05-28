@@ -14,8 +14,7 @@ const SportManagementSection = () => {
         <div className="lg:w-1/2">
           <Heading tag="PLAYMAKERS" title="SPORTS MANAGEMENT" text="Wir bieten Beratung und Unterstützung in den Bereichen Vermarktung, Sponsoring, Athletenmanagement und Eventorganisation."/>
           <div className="bg-n-14 text-2xl font-bold py-2 px-4 mb-8 inline-block">
-            SPORT IST BUSINESS!
-            Steigern Sie Ihren sportlichen Erfolg mit unserem Digitalen Sport Marketing Consulting
+            SPORT IST BUSINESS! Steigern Sie Ihren sportlichen Erfolg mit unserem Digitalen Sport Marketing Consulting
           </div>
           <h3 className="text-color-1 text-3xl font-semibold mb-4">LEISTUNGEN:</h3>
           <ul className="list-none">

@@ -30,7 +30,7 @@ const Services = () => {
               />
             </div>
 
-            <div className="relative z-1 max-w-[17rem] ml-auto">
+            <div className="relative z-10 max-w-[17rem] ml-auto p-4 rounded-lg sm:bg-black sm:bg-opacity-60 sm:p-4 sm:rounded-lg md:bg-transparent md:bg-opacity-0 md:p-4 md:rounded-lgrelative z-10 max-w-[17rem] ml-auto p-4 rounded-lg bg-black bg-opacity-80 sm:bg-opacity-80 sm:bg-black sm:p-4 sm:rounded-lg md:bg-opacity-80 md:bg-black md:p-4 md:rounded-lg">
               <h4 className="h4 mb-4">Lorem Ipsum</h4>
               <p className="body-2 mb-[3rem] text-n-3">
                 Lorem impsum dolor sit amet.
@@ -77,31 +77,31 @@ const Services = () => {
 
             <div className="p-4 bg-n-7 rounded-3xl overflow-hidden lg:min-h-[46rem] lg:flex">
               <div className="py-12 px-4 xl:px-8 lg:w-1/2">
-                <h4 className="h4 mb-4" style={{ color: '#FF4343' }}>Globaler Blick:</h4>
-                <p className="body-2 mb-6 text-n-3">
+                <h4 className="text-xl font-bold mb-4" style={{ color: '#FF4343' }}>Globaler Blick:</h4>
+                <p className="text-base mb-6 text-n-3">
                   Berücksichtigung globaler Trends und Märkte, um internationale Kunden effektiv zu unterstützen und grenzüberschreitende Chancen zu nutzen.
                 </p>
-                <h4 className="h4 mb-4" style={{ color: '#FF4343' }}>Inspirierendes Leadership:</h4>
-                <p className="body-2 mb-6 text-n-3">
+                <h4 className="text-xl font-bold mb-4" style={{ color: '#FF4343' }}>Inspirierendes Leadership:</h4>
+                <p className="text-base mb-6 text-n-3">
                   Förderung von inspirierendem Leadership, das Mitarbeiter dazu ermutigt, ihr volles Potenzial auszuschöpfen.
                 </p>
-                <h4 className="h4 mb-4" style={{ color: '#FF4343' }}>Zusammenarbeit:</h4>
-                <p className="body-2 mb-6 text-n-3">
+                <h4 className="text-xl font-bold mb-4" style={{ color: '#FF4343' }}>Zusammenarbeit:</h4>
+                <p className="text-base mb-6 text-n-3">
                   Both the designer’s and developer’s needs are important to Specify. Creating autonomously but working collaboratively.
                 </p>
               </div>
 
               <div className="py-12 px-4 xl:px-8 lg:w-1/2">
-                <h4 className="h4 mb-4" style={{ color: '#FF4343' }}>Innovation:</h4>
-                <p className="body-2 mb-6 text-n-3">
+                <h4 className="text-xl font-bold mb-4" style={{ color: '#FF4343' }}>Innovation:</h4>
+                <p className="text-base mb-6 text-n-3">
                   Die Bereitschaft, kontinuierlich neue Ideen, Ansätze und Technologien zu erforschen und einzusetzen, um innovative Lösungen zu finden.
                 </p>
-                <h4 className="h5 mb-4" style={{ color: '#FF4343' }}>Kundenorientierung:</h4>
-                <p className="body-2 mb-6 text-n-3">
+                <h4 className="text-xl font-bold mb-4" style={{ color: '#FF4343' }}>Kundenorientierung:</h4>
+                <p className="text-base mb-6 text-n-3">
                   Ein Fokus darauf, den Kunden in den Mittelpunkt aller Bemühungen zu stellen und ihre Bedürfnisse und Ziele zu verstehen, um maßgeschneiderte Lösungen anzubieten.
                 </p>
-                <h4 className="h4 mb-4" style={{ color: '#FF4343' }}>Kreativität:</h4>
-                <p className="body-2 text-n-3">
+                <h4 className="text-xl font-bold mb-4" style={{ color: '#FF4343' }}>Kreativität:</h4>
+                <p className="text-base text-n-3">
                   Take advantage of our open source parsers to transform your design tokens and assets for all your platforms. You have full control over your design data.
                 </p>
               </div>
