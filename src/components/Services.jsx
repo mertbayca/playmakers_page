@@ -30,7 +30,7 @@ const Services = () => {
               />
             </div>
 
-            <div className="relative z-10 max-w-[17rem] ml-auto p-4 rounded-lg sm:bg-black sm:bg-opacity-60 sm:p-4 sm:rounded-lg md:bg-transparent md:bg-opacity-0 md:p-4 md:rounded-lgrelative z-10 max-w-[17rem] ml-auto p-4 rounded-lg bg-black bg-opacity-80 sm:bg-opacity-80 sm:bg-black sm:p-4 sm:rounded-lg md:bg-opacity-80 md:bg-black md:p-4 md:rounded-lg">
+            <div className="relative z-10 max-w-[17rem] ml-auto p-4 rounded-lg bg-black bg-opacity-80 sm:bg-black sm:bg-opacity-60 md:bg-transparent md:bg-opacity-0">
               <h4 className="h4 mb-4">Lorem Ipsum</h4>
               <p className="body-2 mb-[3rem] text-n-3">
                 Lorem impsum dolor sit amet.
