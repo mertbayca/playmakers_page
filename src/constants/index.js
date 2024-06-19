@@ -290,7 +290,7 @@ export const benefits = [
   {
     id: "2",
     title: "Wer sind wir?",
-    text: "TBATBATBATBATBATBATBATBAT BATBATBATBATBATBATBATBA TBATBATBATBATBATBATBATBA",
+    text: "Wir bringen umfassende Erfahrung aus der Zusammenarbeit mit internationalen Unternehmen und Big 4 Firmen mit. Dabei unterstützen wir sowohl kleine und mittelständische Unternehmen (SMEs) als auch große Konzerne, gestützt durch unseren akademischen Hintergrund in Digitaltechnologie.",
     backgroundUrl: "./src/assets/benefits/card-3.svg",
     iconUrl: benefitIcon3,
     imageUrl: benefitImage2,

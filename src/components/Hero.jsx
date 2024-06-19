@@ -19,7 +19,7 @@ const Hero = () => {
       <div className="container relative" ref={parallaxRef}>
         <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 lg:mb-[6.25rem]">
           <Button href="/pricing" white>
-            KONTAKTIERE UNS HIER
+          Kostenlosen und Unverbindlichen Beratungstermin
           </Button>
           <h1 className="text-4xl font-bold text-purple-600 mb-8 mt-8">
             CHASE THE DREAM, <br /> CHANGE YOUR {` `}
